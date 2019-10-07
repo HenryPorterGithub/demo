@@ -1,8 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post A" },
-    { "id": 2, "title": "Post B" },
-    { "id": 3, "title": "Post C" }
+    { "id": 1, "title": "Post A" }
   ],
   
   "data": [
