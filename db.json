@@ -51,7 +51,7 @@
     { "timespan": "1y6m", "dataset": 11, "value": 140 },
     { "timespan": "1w", "dataset": 11, "value": 110 },
     { "timespan": "1y6m2d", "dataset": 12, "value": 2145 }
-   ]
+   ],
   
   "profile": {
     "name": "HenryPorterGithub"
