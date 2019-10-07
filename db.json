@@ -4,10 +4,63 @@
     { "id": 2, "title": "Post B" },
     { "id": 3, "title": "Post C" }
   ],
+  
+  "data": [
+    { "timespan": "9m", "dataset": 10, "value": 30 },
+    { "timespan": "1d3m", "dataset": 10, "value": 20 },
+    { "timespan": "1d3m", "dataset": 11, "value": 120 },
+    
+    { "timespan": "1y6m1w2d", "dataset": 11, "value": 150 },
+    { "timespan": "2y", "dataset": 11, "value": 155 },
+    { "timespan": "1y6m", "dataset": 10, "value": 40 },
+    { "timespan": "1y6m2d", "dataset": 10, "value": 45 },
+    { "timespan": "3m", "dataset": 10, "value": 15 },
+    
+    { "timespan": "1y", "dataset": 12, "value": 2135 },
+    
+    { "timespan": "6m", "dataset": 11, "value": 125 },
+    { "timespan": "3m", "dataset": 12, "value": 2115 },
+    { "timespan": "9m", "dataset": 12, "value": 2130 },
+    
+    { "timespan": "2y", "dataset": 10, "value": 55 },
+    { "timespan": "6m", "dataset": 10, "value": 25 },
+    { "timespan": "3y", "dataset": 12, "value": 2160 },
+    { "timespan": "1d", "dataset": 10, "value": 5 },
+    
+    { "timespan": "1y6m2d", "dataset": 1, "value": 145 },
+    { "timespan": "3m", "dataset": 11, "value": 115 },
+    { "timespan": "9m", "dataset": 11, "value": 130 },
+    { "timespan": "1y6m1w2d", "dataset": 10, "value": 50 },
+    
+    { "timespan": "1d", "dataset": 12, "value": 215 },
+    
+    { "timespan": "1w", "dataset": 10, "value": 10 },
+    { "timespan": "3y", "dataset": 10, "value": 60 },
+    
+    { "timespan": "1d3m", "dataset": 12, "value": 2120 },
+    { "timespan": "1y6m", "dataset": 12, "value": 2140 },
+    
+    { "timespan": "3y", "dataset": 11, "value": 160 },
+    { "timespan": "1y", "dataset": 11, "value": 135 },
+    { "timespan": "6m", "dataset": 11, "value": 2125 },
+    
+    { "timespan": "1y", "dataset": 10, "value": 35 },
+    { "timespan": "1d", "dataset": 11, "value": 15 },
+    { "timespan": "1y6m1w2d", "dataset": 12, "value": 2150 },
+    { "timespan": "2y", "dataset": 12, "value": 2155 },
+    
+    { "timespan": "1w", "dataset": 12, "value": 2110 },
+    { "timespan": "1y6m", "dataset": 11, "value": 140 },
+    { "timespan": "1w", "dataset": 11, "value": 110 },
+    { "timespan": "1y6m2d", "dataset": 12, "value": 2145 }
+   ],
+    
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  
+  
   "profile": {
     "name": "HenryPorterGithub"
   }
