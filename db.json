@@ -41,8 +41,7 @@
     { "timespan": "1y", "dataset": 10, "value": 35 },
     { "timespan": "1d", "dataset": 11, "value": 15 },
     { "timespan": "1y6m1w2d", "dataset": 12, "value": 2150 },
-    { "timespan": "2y", "dataset": 12, "value": 2155 },
-    
+    { "timespan": "2y", "dataset": 12, "value": 2155 }
    ],
   
   "profile": {
