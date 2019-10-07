@@ -1,8 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post A" }
-  ],
-  
   "data": [
     { "timespan": "9m", "dataset": 10, "value": 30 },
     { "timespan": "1d3m", "dataset": 10, "value": 20 },
@@ -47,10 +43,6 @@
     { "timespan": "1y6m1w2d", "dataset": 12, "value": 2150 },
     { "timespan": "2y", "dataset": 12, "value": 2155 },
     
-    { "timespan": "1w", "dataset": 12, "value": 2110 },
-    { "timespan": "1y6m", "dataset": 11, "value": 140 },
-    { "timespan": "1w", "dataset": 11, "value": 110 },
-    { "timespan": "1y6m2d", "dataset": 12, "value": 2145 }
    ],
   
   "profile": {
